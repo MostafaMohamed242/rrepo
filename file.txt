@@ -2,3 +2,4 @@ First line in file
 Second line in local in file
 Third line in local in file
 Fourth line in remote in file
+Sixth line in local in testing branch
